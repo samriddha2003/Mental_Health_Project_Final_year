@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Mental Health AI](https://via.placeholder.com/800x200/4A90E2/FFFFFF?text=Mental+Health+AI+Chatbot+%7C+RIPEX)
+![Mental Health AI](assets/banner.png)
 
 **A compassionate AI-powered mental health support system built with modern web technologies**
 
@@ -196,19 +196,19 @@ lucide-react: ^0.537.0     # Icon library
 ### 📱 Application Screenshots
 
 #### 🎭 **Chatbot Interface**
-![Chatbot Interface](postlogin1.jpg)
+![Chatbot Interface](assets/postlogin1.PNG)
 *Clean, intuitive chatbot interface with "Start a conversation..." prompt, ready for user interaction with RIPEX AI assistant*
 
 #### 📋 **Mental Health Assessment**
-![Mental Health Test](postlogin2.jpg)
+![Mental Health Test](assets/postlogin2.PNG)
 *Interactive mental health questionnaire featuring multiple-choice questions with options ranging from "Rarely or Not at all" to "Constantly or Severe"*
 
 #### 📊 **Assessment Results & Doctor Directory**
-![Assessment Results](postlogin3.jpg)
+![Assessment Results](assets/postlogin3.PNG)
 *Comprehensive assessment results showing happiness score (2.1/5), detailed AI analysis, professional recommendations, and integrated doctor directory with specialist listings*
 
 #### 📄 **Professional Mental Health Report**
-![Mental Health Assessment Report](report_f.jpg)
+![Mental Health Assessment Report](assets/report_final.PNG)
 *Auto-generated PDF report containing comprehensive mental health assessment results including happiness score (2.1), anxiety level classification, detailed AI analysis of symptoms, and professional recommendations for immediate mental health support. The report provides a complete clinical overview suitable for healthcare professionals and personal records.*
 
 ### 📦 Docker Deployment (Optional)
